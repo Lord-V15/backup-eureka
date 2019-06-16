@@ -1,0 +1,4 @@
+﻿"name","description","impact_damage","explosion_damage","burn_damage","explosion_timer","effect_timer","impact_damage_vs_shields","after_burn_timer","ticks_per_second"
+"Frag Grenade","A throwable impact grenade that <strong>deals less damage the further you are</strong> from the explosion.","10","100","","4","","","",""
+"Thermite Grenade","A throwable item that leaves a line of fire which <strong>burns</strong> the enemy over a <strong>short period</strong> of time.","0","0","4","On Impact","8","","2","10"
+"Arc Star","A throwable shuriken that <strong>sticks</strong> on impact and <strong>damages</strong> and <strong>stuns</strong> the enemy when it explodes. The impact damage is higher when sticking it to a enemy with a shield.","15","70","","3","5","60","",""
