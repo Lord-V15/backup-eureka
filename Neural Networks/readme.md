@@ -1,4 +1,4 @@
 # Artificial Neural Networks & Deep Learning
 
-Coming Soon
+Classifications and Regrerssions using TensorFlow
 (Probably gonna use a lot of Keras)
